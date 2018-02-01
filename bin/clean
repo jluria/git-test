@@ -2,4 +2,4 @@
 
 git checkout master &&
 
-git branch -D $1 origin $1
+git branch -D $1 origin/$1
