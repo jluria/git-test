@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -e
+
+git checkout master
+
+git checkout -b $1
