@@ -4,4 +4,6 @@ set -e
 
 git checkout master
 
+git pull origin master
+
 git checkout -b $1
